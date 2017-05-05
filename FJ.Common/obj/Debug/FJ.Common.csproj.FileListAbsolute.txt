@@ -1,0 +1,13 @@
+D:\Study\Net\FJ.CRM\FJ.Common\bin\Debug\FJ.Common.dll
+D:\Study\Net\FJ.CRM\FJ.Common\bin\Debug\FJ.Common.pdb
+D:\Study\Net\FJ.CRM\FJ.Common\bin\Debug\Newtonsoft.Json.dll
+D:\Study\Net\FJ.CRM\FJ.Common\bin\Debug\Newtonsoft.Json.xml
+D:\Study\Net\FJ.CRM\FJ.Common\obj\Debug\FJ.Common.dll
+D:\Study\Net\FJ.CRM\FJ.Common\obj\Debug\FJ.Common.pdb
+D:\Study\Net\FJ.Class\FJ.Common\bin\Debug\FJ.Common.dll
+D:\Study\Net\FJ.Class\FJ.Common\bin\Debug\FJ.Common.pdb
+D:\Study\Net\FJ.Class\FJ.Common\bin\Debug\Newtonsoft.Json.dll
+D:\Study\Net\FJ.Class\FJ.Common\bin\Debug\Newtonsoft.Json.xml
+D:\Study\Net\FJ.Class\FJ.Common\obj\Debug\FJ.Common.csprojResolveAssemblyReference.cache
+D:\Study\Net\FJ.Class\FJ.Common\obj\Debug\FJ.Common.dll
+D:\Study\Net\FJ.Class\FJ.Common\obj\Debug\FJ.Common.pdb
